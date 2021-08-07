@@ -1,0 +1,9 @@
+h1, h2 {
+    color: lightgreen;
+    text-align: center;
+}
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
